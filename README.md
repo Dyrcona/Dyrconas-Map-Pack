@@ -1,6 +1,7 @@
 # Dyrcona's Map Pack #
 
-A collection of multiplayer scenarios for Battle for Wesnoth.
+A collection of multiplayer scenarios for [Battle for
+Wesnoth](https://www.wesnoth.org/).
 
 It is a work in progress.  Watch this space.
 
